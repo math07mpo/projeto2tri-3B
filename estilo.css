@@ -20,3 +20,15 @@
     color: var(--cor-de-texto);
     font-family: var(--tipo-fonte);
    }
+
+   .titulo-principal{
+    font-weight: 700px;
+   }
+
+   .titulo-secundario{
+    font-size:24px;
+   }
+   .conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+   }
