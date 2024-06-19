@@ -76,6 +76,7 @@
 
 
 .parametro--coluna-senha{
+  display: flex;
   flex-direction: column;
   justify-content: center;
 }
